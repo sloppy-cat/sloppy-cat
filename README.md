@@ -18,8 +18,11 @@
 </p>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sloppy-cat&theme=dark&show_icons=true)
-![AWSBadge](/aws-certified-cloud-practitioner.png)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=sloppy-cat&theme=dark&show_icons=true"/></a>
+<a href="https://www.credly.com/badges/833fd5da-5f52-4de9-aabf-a6e0f9090f62/public_url"><img src="/aws-certified-cloud-practitioner.png"/></a>
+
 ![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=30A9DE&height=105&section=footer&fontColor=ececec&fontSize=70&animation=twinkling)
 
 
