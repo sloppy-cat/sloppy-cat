@@ -1,9 +1,6 @@
 
 
 ![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=false&color=30A9DE&height=105&section=header&text=%20Jinsol_Lee&fontColor=ececec&fontSize=70&animation=twinkling)
-
-<br />
-
 <p align="center">
     <h3 align="center">My Stacks</h3>
     <div align="center">
@@ -24,3 +21,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sloppy-cat&theme=dark&show_icons=true)
 ![AWSBadge](/aws-certified-cloud-practitioner.png)
 ![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=30A9DE&height=105&section=footer&fontColor=ececec&fontSize=70&animation=twinkling)
+
+
